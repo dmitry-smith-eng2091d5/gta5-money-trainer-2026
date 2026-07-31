@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="GTA V Trainer Unlimited Money banner"/>
+<img src="https://github.com/NoonSerpentFilter/gta5-money-trainer/raw/main/assets/banner.svg" width="100%" alt="GTA V Trainer Unlimited Money banner"/>
 
 # gta5-money-trainer 💰🎮
 
