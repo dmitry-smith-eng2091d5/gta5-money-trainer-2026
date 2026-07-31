@@ -9,7 +9,7 @@
 *Your single-player Los Santos, on your terms — unlimited money, zero friction.*
 
 <p align="center">
-  <a href="">
+  <a href="https://github.com/dmitry-smith-eng2091d5/gta5-money-trainer-2026/releases/tag/release">
     <img src="https://img.shields.io/badge/DOWNLOAD-Latest_Build-D97706?style=for-the-badge&logo=windows&logoColor=white&labelColor=B45309" width="550" alt="Download"/>
   </a>
 </p>
